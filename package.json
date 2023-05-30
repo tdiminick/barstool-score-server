@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "5.5",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon scoreServer.js"
+  },
+  "type": "module"
+}
