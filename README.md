@@ -7,9 +7,9 @@ Barstool full stack code challenge
 
 1. open shell in folder you want project
 
-2. clone project into folder - `git clone https://github.com/tdiminick/barstool-score-app.git`
+2. clone project into folder - `git clone https://github.com/tdiminick/barstool-score-server.git`
 
-3. install dependencies and start server - `npm install && npm start`
+3. install dependencies and start server - `cd barstool-score-server && npm install && npm start`
 
 ## Notes
 
